@@ -35,4 +35,63 @@ form{
 	background-color: white;
     font-size: 1em;
     border-radius: 5px;
+    margin-top: 10px;
+    color:  #19ff19;
 }
+
+.form-group {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	justify-content: center;
+	align-items: center;
+	align-content: center;
+}
+
+.selectdiv {
+  position: relative;  
+  float: left;
+  min-width: 200px;
+  margin: 10px 1px;
+}
+
+.selectdiv:after {
+    content: '\f078';
+    font: normal normal normal 17px/1 FontAwesome;
+    color: white;
+    right: 11px;
+    height: 33px;
+    padding-top: 7px;
+    position: absolute;
+    pointer-events: none;
+}
+
+select::-ms-expand {
+display: none;
+}
+
+.selectdiv select {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;  
+  display: block;
+  width: 100%;
+  max-width: 320px;
+  height: 33px;
+  float: right;
+  padding: 0px 24px;
+  font-size: 1em;
+  font-weight: bold;
+  line-height: 1.75;
+  color: white;
+  background-color: #19ff19;
+  background-image: none;
+  border: 1px solid #19ff19;
+  -ms-word-break: normal;
+  word-break: normal;
+  border-radius: 5px;
+  width: 300px;
+}
+
+
+
