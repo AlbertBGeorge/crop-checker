@@ -1,0 +1,62 @@
+<script>
+var vegetables = {
+
+	{
+	name: "Tomato",
+	temp_start: 10,
+	temp_end: 38,
+	otemp_start: 21,
+	otemp_end:24,
+	ph_start:5.5,
+	ph_stop:6.8,
+	info:"For the best growth add 3 to 4 inch-deep layer of compost and mixing it into the top 10 to 12 inches of soil will improve the soil's texture and drainage while adding nutrients. These warm-season vegetables require full sun, or bright, direct light, for at least six to eight hours per day. Orienting tomato rows from north to south will provide the plants with the most possible sun."
+	}
+	
+	
+	{
+	name: "Beans",
+	temp_start: 17.5,
+	temp_end:27,
+	otemp_start:20,
+	otemp_end:25,
+	ph_start:5.5,
+	ph_stop:6,
+	info:" For the best growth Harvest at the right time. Harvest dry beans when the pods have completely dried on the vine. The pods should be light brown, and you should be able to feel the hard beans inside. Shell the beans, and let them sit out a few days to ensure that they're completely dry before storing them in jars in a cool, dark, dry place. "
+	}
+	{
+	name:"Potatoe",
+	temp_start: 18,
+	temp_end: 32,
+	otemp_start:20,
+	otemp_end:24,
+	ph_start:5,
+	ph_stop:5.5,
+	info:"For proper growth it requires a cool but frost-free growing season of 75 to 135 or more days. Hot weather will reduce the number of tubers per plant.Potatoes require evenly moist but not wet,water before the soil dries out. Mulch to conserve soil moisture, prevent the soil from becoming too warm, and to keep the weeds down."
+	}
+	{
+	name:"Cauliflower",
+	temp_start: 10,
+	temp_end: 25,
+	otemp_start:15,
+	otemp_end:21,
+	ph_start:5.5,
+	ph_stop:6.5,
+	info:"Early crops prefer light soil while late crops thrive better on heavier soils due to retention of moisture.High temperature during maturity will result in yellowish leafy curds. It is therefore essential to choose proper variety to be sown at proper time"
+	}
+	{
+	name:"Green chilly",
+	temp_start: 14,
+	temp_end:24 ,
+	otemp_start:18,
+	otemp_end:22,
+	ph_start:5.5,
+	ph_stop:6.5,
+	info:"The key to growing chillies successfully is to find a sunny, sheltered spot and keep them regularly watered and fed.One of the most important aspects of growing chillies is getting the watering right, they are very thirsty plants. During hot periods, especially if grown inside a greenhouse, you will need to water regularly, usually twice a day. As dry compost will lead to a check in their growth."
+	}	
+
+
+
+}
+
+
+</script>
